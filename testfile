@@ -7,8 +7,11 @@ Lots of lines to test with
 end of lines
 commit1
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit2
 commit3
 =======
+=======
+>>>>>>> parent of 5d91be0... Added more info 4
 
 >>>>>>> parent of 5d91be0... Added more info 4
